@@ -1,6 +1,5 @@
 ### Ola!!! Eu sou o jovi👋
 
-- 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando PHP
 - 📫 Contate-me no email: jovimart09@gmail.com
 - 😄 Pronouns: ele/dele
